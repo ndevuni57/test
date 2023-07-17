@@ -10,4 +10,8 @@ public class Controller {
     public void getMethod(){
         System.out.println("controller method");
     }
+    @GetMapping
+    public void getMethod2(){
+        System.out.println("controller method2");
+    }
 }

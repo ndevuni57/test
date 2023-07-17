@@ -12,6 +12,6 @@ public class Controller {
     }
     @GetMapping
     public void getMethod2(){
-        System.out.println("controller method2");
+        System.out.println("controller method merge now");
     }
 }
